@@ -749,4 +749,18 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
 CATEGORIES:Test
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:7e99d1bf-a2d3-5eb7-a81d-6d9928a3d8ef
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[UK] TEST 123123
+LOCATION:Düsseldorf
+DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tactus.works
+URL:https://www.tactus.works
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
+ ><a href="https://www.tactus.works">Registration & Info</a></p></BODY></HT
+ ML>
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
