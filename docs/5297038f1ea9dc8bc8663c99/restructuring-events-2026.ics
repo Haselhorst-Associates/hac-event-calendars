@@ -294,21 +294,6 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c0b7c42b-6125-55fc-9de0-3aa3a5d682ca
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:Restrukturierungslunch München
-LOCATION:München
-DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
- ranstaltungen/branchenevents
-URL:https://www.ifus-institut.de/veranstaltungen/branchenevents
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
- <a href="https://www.ifus-institut.de/veranstaltungen/branchenevents">Regi
- stration & Info</a></p></BODY></HTML>
-CATEGORIES:Networking
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:640e149d-2cd9-5b8b-9ed2-31367c0b974d
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260425
@@ -321,6 +306,21 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ab 2.450
  €</p><p><a href="https://live.handelsblatt.com/event/handelsblatt-restru
  kturierung/">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b7c42b-6125-55fc-9de0-3aa3a5d682ca
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Restrukturierungslunch München
+LOCATION:München
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
+ ranstaltungen/branchenevents
+URL:https://www.ifus-institut.de/veranstaltungen/branchenevents
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.ifus-institut.de/veranstaltungen/branchenevents">Regi
+ stration & Info</a></p></BODY></HTML>
+CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -683,6 +683,21 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:4d8ea2d6-5157-5fb6-9b7b-2213b69e1c00
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261019
+SUMMARY:INSOL Europe Annual Congress 2026
+LOCATION:Vilamoura\, Portugal
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insol-europe.org/ev
+ ents
+URL:https://www.insol-europe.org/events
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.insol-europe.org/events">Registration & Info</a></p><
+ /BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:eac59b1f-50bd-5a23-8580-2744fa35ff66
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
@@ -695,21 +710,6 @@ URL:https://www.fh-kufstein.ac.at/service/eventserien/symposium-restrukturi
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
  <a href="https://www.fh-kufstein.ac.at/service/eventserien/symposium-restr
  ukturierung/2026">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Conference
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:4d8ea2d6-5157-5fb6-9b7b-2213b69e1c00
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261019
-SUMMARY:INSOL Europe Annual Congress 2026
-LOCATION:Vilamoura\, Portugal
-DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insol-europe.org/ev
- ents
-URL:https://www.insol-europe.org/events
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
- <a href="https://www.insol-europe.org/events">Registration & Info</a></p><
- /BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT

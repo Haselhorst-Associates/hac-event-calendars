@@ -51,6 +51,21 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:c1e67fd0-6dd5-599f-b992-162288fb29b2
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260227
+SUMMARY:[AT] 0100 DACH 2026 (12th edition)
+LOCATION:Vienna
+DESCRIPTION:Cost: BVK members -15%\nRegistration & Info: https://www.0100co
+ nferences.com/conferences/0100-dach-2026
+URL:https://www.0100conferences.com/conferences/0100-dach-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s -15%</p><p><a href="https://www.0100conferences.com/conferences/0100-dac
+ h-2026">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:16b296ce-0218-57b7-87dc-917e3a21d7df
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
@@ -69,21 +84,6 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c1e67fd0-6dd5-599f-b992-162288fb29b2
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260227
-SUMMARY:[AT] 0100 DACH 2026 (12th edition)
-LOCATION:Vienna
-DESCRIPTION:Cost: BVK members -15%\nRegistration & Info: https://www.0100co
- nferences.com/conferences/0100-dach-2026
-URL:https://www.0100conferences.com/conferences/0100-dach-2026
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
- s -15%</p><p><a href="https://www.0100conferences.com/conferences/0100-dac
- h-2026">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Conference
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:3094fb2b-e700-551a-ab94-e6180b6c30d1
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260306
@@ -94,6 +94,21 @@ URL:https://bma-excellencedays.de/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
  <a href="https://bma-excellencedays.de/">Registration & Info</a></p></BODY
  ></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c3815d38-9aea-541e-84f6-35a89a90e55f
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260312
+SUMMARY:[UK] SuperReturn Private Credit Europe
+LOCATION:London
+DESCRIPTION:Cost: ~£2,399 / LPs free\nRegistration & Info: https://informa
+ connect.com/superreturn-private-credit-europe/
+URL:https://informaconnect.com/superreturn-private-credit-europe/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~£2,399 /
+  LPs free</p><p><a href="https://informaconnect.com/superreturn-private-cr
+ edit-europe/">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -111,21 +126,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
  s</p><p><a href="https://www.bvkap.de/events/termine/speeddating-private-e
  quity-trifft-m-a-2">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Networking
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c3815d38-9aea-541e-84f6-35a89a90e55f
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260312
-SUMMARY:[UK] SuperReturn Private Credit Europe
-LOCATION:London
-DESCRIPTION:Cost: ~£2,399 / LPs free\nRegistration & Info: https://informa
- connect.com/superreturn-private-credit-europe/
-URL:https://informaconnect.com/superreturn-private-credit-europe/
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~£2,399 /
-  LPs free</p><p><a href="https://informaconnect.com/superreturn-private-cr
- edit-europe/">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -189,6 +189,19 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:32ceea16-5367-5c22-819e-502d53305ded
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:[DE] TEST EVENT — Bitte ignorieren
+LOCATION:München
+DESCRIPTION:Cost: Free\nRegistration & Info: https://example.com
+URL:https://example.com
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
+ ><a href="https://example.com">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:31f78e3f-0930-55a7-a1de-1cc44182d20b
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
@@ -234,21 +247,6 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5291868f-677c-5dcb-bd53-98741781c7b4
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:[DE] Deutsche Investorenkonferenz 2026
-LOCATION:Frankfurt
-DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
- mine/deutsche-investorenkonferenz-2026
-URL:https://www.bvkap.de/events/termine/deutsche-investorenkonferenz-2026
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
- <a href="https://www.bvkap.de/events/termine/deutsche-investorenkonferenz-
- 2026">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Conference
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:f56d6743-83b3-57e7-9b3b-5dd353a987af
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260424
@@ -260,6 +258,21 @@ URL:https://www.0100conferences.com/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €1,
  099</p><p><a href="https://www.0100conferences.com/">Registration & Info</
  a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5291868f-677c-5dcb-bd53-98741781c7b4
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:[DE] Deutsche Investorenkonferenz 2026
+LOCATION:Frankfurt
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/deutsche-investorenkonferenz-2026
+URL:https://www.bvkap.de/events/termine/deutsche-investorenkonferenz-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/deutsche-investorenkonferenz-
+ 2026">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -401,6 +414,21 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:365a8e73-992e-55a1-8ea9-47fc7f129989
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:[DE] SuperReturn International 2026
+LOCATION:Berlin (InterContinental)
+DESCRIPTION:Cost: LPs free / GPs from ~£3,999\nRegistration & Info: https:
+ //informaconnect.com/superreturn-international/
+URL:https://informaconnect.com/superreturn-international/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: LPs free /
+  GPs from ~£3,999</p><p><a href="https://informaconnect.com/superreturn-i
+ nternational/">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7d058301-ffad-52de-a530-d718d3cb77d3
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
@@ -434,21 +462,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
  -superreturn-international-bvk-cruise-x-superreturn">Registration & Info</
  a></p></BODY></HTML>
 CATEGORIES:Networking
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:365a8e73-992e-55a1-8ea9-47fc7f129989
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260613
-SUMMARY:[DE] SuperReturn International 2026
-LOCATION:Berlin (InterContinental)
-DESCRIPTION:Cost: LPs free / GPs from ~£3,999\nRegistration & Info: https:
- //informaconnect.com/superreturn-international/
-URL:https://informaconnect.com/superreturn-international/
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: LPs free /
-  GPs from ~£3,999</p><p><a href="https://informaconnect.com/superreturn-i
- nternational/">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -692,6 +705,20 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:7e99d1bf-a2d3-5eb7-a81d-6d9928a3d8ef
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[UK] TEST 123123
+LOCATION:Düsseldorf
+DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tactus.works
+URL:https://www.tactus.works
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
+ ><a href="https://www.tactus.works">Registration & Info</a></p></BODY></HT
+ ML>
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:c196bacc-5bae-56a6-8b03-05e2055ab3f9
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
@@ -734,33 +761,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from £599
   / LPs free</p><p><a href="https://pe-insights.com/united-kingdom/">Regist
  ration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:32ceea16-5367-5c22-819e-502d53305ded
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:[DE] TEST EVENT — Bitte ignorieren
-LOCATION:München
-DESCRIPTION:Cost: Free\nRegistration & Info: https://example.com
-URL:https://example.com
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
- ><a href="https://example.com">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Test
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7e99d1bf-a2d3-5eb7-a81d-6d9928a3d8ef
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:[UK] TEST 123123
-LOCATION:Düsseldorf
-DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tactus.works
-URL:https://www.tactus.works
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
- ><a href="https://www.tactus.works">Registration & Info</a></p></BODY></HT
- ML>
-CATEGORIES:Test
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
