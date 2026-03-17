@@ -1,0 +1,739 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HAC//PE Events 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PE & Deal Sourcing Events 2026
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:44e224e5-ba19-520e-9163-53e8339170f6
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:[DE] PrivateMarkets_One 2026
+LOCATION:Frankfurt
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://forum.frankfurt-school.
+ de/konferenzen/privatemarkets_one/
+URL:https://forum.frankfurt-school.de/konferenzen/privatemarkets_one/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://forum.frankfurt-school.de/konferenzen/privatemarkets_one/
+ ">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf33bb4a-9f85-5abd-8bfc-dd4b7adc0255
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260206
+SUMMARY:[FR] IPEM Cannes 2026 (13th edition)
+LOCATION:Cannes (Palais des Festivals)
+DESCRIPTION:Cost: ~€2,400\nRegistration & Info: https://www.ipem-market.c
+ om/
+URL:https://www.ipem-market.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~€2,400<
+ /p><p><a href="https://www.ipem-market.com/">Registration & Info</a></p></
+ BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc83e66-e18f-5357-9d53-9c63b256533b
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:[DE] M&A-Konferenz 2026
+LOCATION:Düsseldorf
+DESCRIPTION:Cost: BVK members -10%\nRegistration & Info: https://www.ruw-fa
+ chkonferenzen.de/veranstaltung/ma-konferenz-2026/
+URL:https://www.ruw-fachkonferenzen.de/veranstaltung/ma-konferenz-2026/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s -10%</p><p><a href="https://www.ruw-fachkonferenzen.de/veranstaltung/ma-
+ konferenz-2026/">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16b296ce-0218-57b7-87dc-917e3a21d7df
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:[DE] German Private Equity Summit (SuperReturn)
+LOCATION:Berlin
+DESCRIPTION:Cost: Part of SuperReturn\nRegistration & Info: https://informa
+ connect.com/superreturn-international/german-private-equity-summit-deutsch
+ er/
+URL:https://informaconnect.com/superreturn-international/german-private-equ
+ ity-summit-deutscher/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Part of Su
+ perReturn</p><p><a href="https://informaconnect.com/superreturn-internatio
+ nal/german-private-equity-summit-deutscher/">Registration & Info</a></p></
+ BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e67fd0-6dd5-599f-b992-162288fb29b2
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260227
+SUMMARY:[AT] 0100 DACH 2026 (12th edition)
+LOCATION:Vienna
+DESCRIPTION:Cost: BVK members -15%\nRegistration & Info: https://www.0100co
+ nferences.com/conferences/0100-dach-2026
+URL:https://www.0100conferences.com/conferences/0100-dach-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s -15%</p><p><a href="https://www.0100conferences.com/conferences/0100-dac
+ h-2026">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3094fb2b-e700-551a-ab94-e6180b6c30d1
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260306
+SUMMARY:[DE] M&A Excellence Days
+LOCATION:Frankfurt
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://bma-excellencedays.de/
+URL:https://bma-excellencedays.de/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://bma-excellencedays.de/">Registration & Info</a></p></BODY
+ ></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:556f4843-31ef-5db9-b762-4aacbf505527
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:[DE] BVK Speeddating "PE meets M&A"
+LOCATION:Munich
+DESCRIPTION:Cost: BVK members\nRegistration & Info: https://www.bvkap.de/ev
+ ents/termine/speeddating-private-equity-trifft-m-a-2
+URL:https://www.bvkap.de/events/termine/speeddating-private-equity-trifft-m
+ -a-2
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s</p><p><a href="https://www.bvkap.de/events/termine/speeddating-private-e
+ quity-trifft-m-a-2">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c3815d38-9aea-541e-84f6-35a89a90e55f
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260312
+SUMMARY:[UK] SuperReturn Private Credit Europe
+LOCATION:London
+DESCRIPTION:Cost: ~£2,399 / LPs free\nRegistration & Info: https://informa
+ connect.com/superreturn-private-credit-europe/
+URL:https://informaconnect.com/superreturn-private-credit-europe/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~£2,399 /
+  LPs free</p><p><a href="https://informaconnect.com/superreturn-private-cr
+ edit-europe/">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34a71eef-d614-50fb-8a74-6a2a35976d77
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:[DE] 31st Saxon Investors Roadshow (digital)
+LOCATION:Online
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/31-saechsische-investoren-roadshow-digitale-ausgabe
+URL:https://www.bvkap.de/events/termine/31-saechsische-investoren-roadshow-
+ digitale-ausgabe
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/31-saechsische-investoren-roa
+ dshow-digitale-ausgabe">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Roadshow
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c3eaffc-fda1-59ab-b861-f72fb0f7cb7b
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:[DE] PE Insights Germany 2026
+LOCATION:Frankfurt (Westin)
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/germany/
+URL:https://pe-insights.com/germany/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/germany/">Registration
+  & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14aa0bfe-6713-52a5-bb25-3a941261d3e2
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:[DE] LPGP Connect Private Debt – Berlin
+LOCATION:Berlin
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.lpgpconnect.com/
+URL:https://www.lpgpconnect.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.lpgpconnect.com/">Registration & Info</a></p></BODY><
+ /HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1daa3b-b5ca-5071-8ee1-9d4b93c384c9
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260320
+SUMMARY:[CH] Invest Europe Investors' Forum 2026
+LOCATION:Geneva
+DESCRIPTION:Cost: ~€2,820 (members)\nRegistration & Info: https://www.inv
+ esteurope.eu/
+URL:https://www.investeurope.eu/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~€2,820 
+ (members)</p><p><a href="https://www.investeurope.eu/">Registration & Info
+ </a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31f78e3f-0930-55a7-a1de-1cc44182d20b
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:[DE] Female Funding '26
+LOCATION:Online
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/female-funding-26
+URL:https://www.bvkap.de/events/termine/female-funding-26
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/female-funding-26">Registrati
+ on & Info</a></p></BODY></HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82fe31b2-1a9f-5d99-99f4-14536b68d6cb
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:[DE] Funds Forum Frankfurt
+LOCATION:Frankfurt
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/funds-forum-frankfurt
+URL:https://www.bvkap.de/events/termine/funds-forum-frankfurt
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/funds-forum-frankfurt">Regist
+ ration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3df7a1-eaea-5ea0-b4bf-c19c23bbdc3d
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:[UK] Private Capital Sustainability Conference
+LOCATION:London (Minster Building)
+DESCRIPTION:Cost: GP/LP members free\nRegistration & Info: https://www.ukpr
+ ivatecapital.co.uk/events/
+URL:https://www.ukprivatecapital.co.uk/events/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: GP/LP memb
+ ers free</p><p><a href="https://www.ukprivatecapital.co.uk/events/">Regist
+ ration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5291868f-677c-5dcb-bd53-98741781c7b4
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:[DE] Deutsche Investorenkonferenz 2026
+LOCATION:Frankfurt
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/deutsche-investorenkonferenz-2026
+URL:https://www.bvkap.de/events/termine/deutsche-investorenkonferenz-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/deutsche-investorenkonferenz-
+ 2026">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f56d6743-83b3-57e7-9b3b-5dd353a987af
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260424
+SUMMARY:[NL] 0100 Europe 2026
+LOCATION:Amsterdam
+DESCRIPTION:Cost: from €1,099\nRegistration & Info: https://www.0100confe
+ rences.com/
+URL:https://www.0100conferences.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €1,
+ 099</p><p><a href="https://www.0100conferences.com/">Registration & Info</
+ a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6455e99a-6725-5140-924c-aaa3cbbea011
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:[DE] BVK Speeddating "PE meets Corporate M&A"
+LOCATION:Frankfurt
+DESCRIPTION:Cost: BVK members\nRegistration & Info: https://www.bvkap.de/ev
+ ents/termine/speeddating-private-equity-trifft-corporate-m-a-2
+URL:https://www.bvkap.de/events/termine/speeddating-private-equity-trifft-c
+ orporate-m-a-2
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s</p><p><a href="https://www.bvkap.de/events/termine/speeddating-private-e
+ quity-trifft-corporate-m-a-2">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15fc8e94-fb49-5848-96ef-9cb4b0d8db83
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260508
+SUMMARY:[IT] PE Insights Italy 2026
+LOCATION:Milan
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/
+URL:https://pe-insights.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/">Registration & Info<
+ /a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eece61cd-65c3-5a4b-940c-d2b125d83006
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260513
+SUMMARY:[DE] HTGF Family Day 2026
+LOCATION:Berlin (STATION)
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/htgf-family-day-2026
+URL:https://www.bvkap.de/events/termine/htgf-family-day-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/htgf-family-day-2026">Registr
+ ation & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:46838048-3d76-5bd6-90e8-d7213b76b974
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260514
+SUMMARY:[DE] German Spring Conference (Equity Forum)
+LOCATION:Frankfurt (Flemings)
+DESCRIPTION:Cost: Free (inst. investors)\nRegistration & Info: https://equi
+ tyforum.de/en/events/german-spring-conference-2026
+URL:https://equityforum.de/en/events/german-spring-conference-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free (inst
+ . investors)</p><p><a href="https://equityforum.de/en/events/german-spring
+ -conference-2026">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:930132c7-a8b2-5ab4-9c4e-a1d5d225d9aa
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260521
+SUMMARY:[UK] Impact Investor Global Summit
+LOCATION:London
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.impactinvestor.co.u
+ k/
+URL:https://www.impactinvestor.co.uk/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.impactinvestor.co.uk/">Registration & Info</a></p></B
+ ODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef6b780-8cc5-56dc-9ba6-8e8249c1414a
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:[DE] BVK Speeddating "PE meets Capital Markets"
+LOCATION:Frankfurt
+DESCRIPTION:Cost: BVK members\nRegistration & Info: https://www.bvkap.de/ev
+ ents/termine/speeddating-private-equity-trifft-kapitalmarkt
+URL:https://www.bvkap.de/events/termine/speeddating-private-equity-trifft-k
+ apitalmarkt
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s</p><p><a href="https://www.bvkap.de/events/termine/speeddating-private-e
+ quity-trifft-kapitalmarkt">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6cbe4961-bf26-54ae-8e70-040eeacb8caf
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:[UK] Accelerate: The UK Venture Conference
+LOCATION:London
+DESCRIPTION:Cost: Members from £295\nRegistration & Info: https://www.ukpr
+ ivatecapital.co.uk/events/
+URL:https://www.ukprivatecapital.co.uk/events/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Members fr
+ om £295</p><p><a href="https://www.ukprivatecapital.co.uk/events/">Regist
+ ration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b25761bb-dbcf-522f-8204-09ff21b724d8
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:[PL] PE Insights CEE 2026
+LOCATION:Warsaw
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/
+URL:https://pe-insights.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/">Registration & Info<
+ /a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f36c9050-55f5-5cf7-bcbc-f367fe6b4358
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:[DE] Being Public Conference
+LOCATION:Frankfurt
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/being-public-conference
+URL:https://www.bvkap.de/events/termine/being-public-conference
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/being-public-conference">Regi
+ stration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d058301-ffad-52de-a530-d718d3cb77d3
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:[DE] BVK Fachforum & BVK Night (SuperReturn)
+LOCATION:Berlin
+DESCRIPTION:Cost: BVK members\nRegistration & Info: https://www.bvkap.de/ev
+ ents/termine/bvk-fachforum-bvk-night-zur-superreturn-international-bvk-cru
+ ise-x-superreturn
+URL:https://www.bvkap.de/events/termine/bvk-fachforum-bvk-night-zur-superre
+ turn-international-bvk-cruise-x-superreturn
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s</p><p><a href="https://www.bvkap.de/events/termine/bvk-fachforum-bvk-nig
+ ht-zur-superreturn-international-bvk-cruise-x-superreturn">Registration & 
+ Info</a></p></BODY></HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93a57df3-03dc-5426-a980-480619e618a9
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:[DE] LP-Lunch at SuperReturn
+LOCATION:Berlin
+DESCRIPTION:Cost: BVK members\nRegistration & Info: https://www.bvkap.de/ev
+ ents/termine/lp-lunch-am-rande-der-superreturn-international-bvk-cruise-x-
+ superreturn
+URL:https://www.bvkap.de/events/termine/lp-lunch-am-rande-der-superreturn-i
+ nternational-bvk-cruise-x-superreturn
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: BVK member
+ s</p><p><a href="https://www.bvkap.de/events/termine/lp-lunch-am-rande-der
+ -superreturn-international-bvk-cruise-x-superreturn">Registration & Info</
+ a></p></BODY></HTML>
+CATEGORIES:Networking
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:365a8e73-992e-55a1-8ea9-47fc7f129989
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:[DE] SuperReturn International 2026
+LOCATION:Berlin (InterContinental)
+DESCRIPTION:Cost: LPs free / GPs from ~£3,999\nRegistration & Info: https:
+ //informaconnect.com/superreturn-international/
+URL:https://informaconnect.com/superreturn-international/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: LPs free /
+  GPs from ~£3,999</p><p><a href="https://informaconnect.com/superreturn-i
+ nternational/">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13a2f90d-f5fe-5c7b-8056-afb4fd79927c
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:[DE] Saxon Investors Day 2026
+LOCATION:Dresden region
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/saechsischer-investorentag-2026
+URL:https://www.bvkap.de/events/termine/saechsischer-investorentag-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/saechsischer-investorentag-20
+ 26">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a12f8ea-dcca-5838-8b6d-e1d8e29d3e2d
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:[DE] BMA Shift & Change – Mittelstandstag
+LOCATION:Düsseldorf
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://bm-a.de/veranstaltungen
+ /
+URL:https://bm-a.de/veranstaltungen/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://bm-a.de/veranstaltungen/">Registration & Info</a></p></BO
+ DY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ea4458-ff27-50d0-9de5-ecc106e624df
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:[CH] PE Insights Switzerland 2026
+LOCATION:Zurich
+DESCRIPTION:Cost: from CHF 599 / LPs free\nRegistration & Info: https://pe-
+ insights.com/
+URL:https://pe-insights.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from CHF 5
+ 99 / LPs free</p><p><a href="https://pe-insights.com/">Registration & Info
+ </a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71452c09-e459-5c46-bf35-221dab2caab3
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:[DE] MUPET – Munich Private Equity Training
+LOCATION:Munich
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/munich-private-equity-training-mupet-2026
+URL:https://www.bvkap.de/events/termine/munich-private-equity-training-mupe
+ t-2026
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/munich-private-equity-trainin
+ g-mupet-2026">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Training
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9f12b06-95a9-5bfb-aefc-51b5a4c271bf
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:[UK] LPGP Connect CFO/COO London
+LOCATION:London
+DESCRIPTION:Cost: ~£1,495\nRegistration & Info: https://www.lpgpconnect.co
+ m/events
+URL:https://www.lpgpconnect.com/events
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~£1,495</
+ p><p><a href="https://www.lpgpconnect.com/events">Registration & Info</a><
+ /p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffafb03a-a816-5853-b619-f08f833d6394
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260911
+SUMMARY:[UK] BVCA Summit 2026 (UK Private Capital)
+LOCATION:London (Convene Sancroft)
+DESCRIPTION:Cost: 1,000+ attendees\nRegistration & Info: https://www.ukpriv
+ atecapital.co.uk/events/summit.html
+URL:https://www.ukprivatecapital.co.uk/events/summit.html
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: 1,000+ att
+ endees</p><p><a href="https://www.ukprivatecapital.co.uk/events/summit.htm
+ l">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf37b478-ebd3-5f86-9168-ae977e1128b8
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260916
+SUMMARY:[DE] DEALSOURCING 2026
+LOCATION:Oberursel (Dorint Hotel)
+DESCRIPTION:Cost: 1,100+ attendees\nRegistration & Info: https://finance-th
+ inktank.de/events/dealsourcing/
+URL:https://finance-thinktank.de/events/dealsourcing/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: 1,100+ att
+ endees</p><p><a href="https://finance-thinktank.de/events/dealsourcing/">R
+ egistration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61cda344-0f18-5a87-8c6b-df7c5b784262
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+SUMMARY:[UK] Private Equity Europe Forum
+LOCATION:London
+DESCRIPTION:Cost: ~$5,000 / LPs free\nRegistration & Info: https://www.mark
+ etsgroup.org/forums/private-equity-europe-forum
+URL:https://www.marketsgroup.org/forums/private-equity-europe-forum
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~$5,000 / 
+ LPs free</p><p><a href="https://www.marketsgroup.org/forums/private-equity
+ -europe-forum">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76325e02-3ae3-566c-ac42-b617aacc5370
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260918
+SUMMARY:[DE] BIG BANG AI Festival
+LOCATION:Berlin (STATION)
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/big-bang-ki-festival-3
+URL:https://www.bvkap.de/events/termine/big-bang-ki-festival-3
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/big-bang-ki-festival-3">Regis
+ tration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f651d99-7cbb-5e5a-a3cb-2a9d868801e0
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:[DE] 33rd Saxon Investors Roadshow
+LOCATION:Berlin
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/33-saxon-investors-roadshow
+URL:https://www.bvkap.de/events/termine/33-saxon-investors-roadshow
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/33-saxon-investors-roadshow">
+ Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Roadshow
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:78d574f9-0478-5451-bc47-28dbaef9d298
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:[UK] ALTSUK 2026
+LOCATION:London
+DESCRIPTION:Cost: ~$2,500\nRegistration & Info: https://www.caia.org/
+URL:https://www.caia.org/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~$2,500</p
+ ><p><a href="https://www.caia.org/">Registration & Info</a></p></BODY></HT
+ ML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d8251eba-475a-50bb-b617-0f4268e6f0ff
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:[NL] PE Insights Benelux 2026
+LOCATION:Amsterdam
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/
+URL:https://pe-insights.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/">Registration & Info<
+ /a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96566c6f-9d8c-5ada-8ba0-df3f712d8d84
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:[UK] LPGP Connect Private Debt London (12th Annual)
+LOCATION:London (Sofitel St James)
+DESCRIPTION:Cost: ~£1,495\nRegistration & Info: https://www.lpgpconnect.co
+ m/events
+URL:https://www.lpgpconnect.com/events
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ~£1,495</
+ p><p><a href="https://www.lpgpconnect.com/events">Registration & Info</a><
+ /p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a3ee7b-e50a-5c27-b012-30e1ca61f823
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:[DE] PE Insights DACH 2026
+LOCATION:Munich (Marriott City West)
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/dach/
+URL:https://pe-insights.com/dach/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/dach/">Registration & 
+ Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abad95f8-ec86-5ae1-868f-8dafd6969324
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:[ES] PE Insights Iberia 2026
+LOCATION:Madrid
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/
+URL:https://pe-insights.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/">Registration & Info<
+ /a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70219466-f6b8-55e5-a73d-bb85a4270469
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261107
+SUMMARY:[NL] SuperReturn Europe 2026
+LOCATION:Amsterdam (Hotel Okura)
+DESCRIPTION:Cost: LPs free / GPs from ~£2,499\nRegistration & Info: https:
+ //informaconnect.com/superreturneurope/
+URL:https://informaconnect.com/superreturneurope/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: LPs free /
+  GPs from ~£2,499</p><p><a href="https://informaconnect.com/superreturneu
+ rope/">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c196bacc-5bae-56a6-8b03-05e2055ab3f9
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:[DE] 27. Deutscher Eigenkapitaltag
+LOCATION:Berlin (Futurium)
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
+ mine/27-deutscher-eigenkapitaltag
+URL:https://www.bvkap.de/events/termine/27-deutscher-eigenkapitaltag
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.bvkap.de/events/termine/27-deutscher-eigenkapitaltag"
+ >Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6413fa38-11af-502c-ac91-f922eeb711b6
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[SE] PE Insights Nordics 2026
+LOCATION:Stockholm
+DESCRIPTION:Cost: from €599 / LPs free\nRegistration & Info: https://pe-i
+ nsights.com/
+URL:https://pe-insights.com/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from €59
+ 9 / LPs free</p><p><a href="https://pe-insights.com/">Registration & Info<
+ /a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41ac63d8-6d96-5853-b50a-165cc44ae02c
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:[UK] PE Insights UK 2026
+LOCATION:London
+DESCRIPTION:Cost: from £599 / LPs free\nRegistration & Info: https://pe-in
+ sights.com/united-kingdom/
+URL:https://pe-insights.com/united-kingdom/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from £599
+  / LPs free</p><p><a href="https://pe-insights.com/united-kingdom/">Regist
+ ration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

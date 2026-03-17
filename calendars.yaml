@@ -1,0 +1,16 @@
+calendars:
+  - excel_file: "data/pe_event_calendar_2026.xlsx"
+    output_file: "docs/5297038f1ea9dc8bc8663c99/pe-events-2026.ics"
+    calendar_name: "PE & Deal Sourcing Events 2026"
+    prodid: "-//HAC//PE Events 2026//EN"
+    header_row: 3        # 0-indexed (row 4 in Excel = headers)
+    language: "en"
+    summary_prefix: "country"  # [DE], [FR], [UK] prefix in SUMMARY
+
+  - excel_file: "data/restructuring_event_calendar_2026.xlsx"
+    output_file: "docs/5297038f1ea9dc8bc8663c99/restructuring-events-2026.ics"
+    calendar_name: "Restructuring Events 2026"
+    prodid: "-//HAC//Restructuring Events 2026//EN"
+    header_row: 3
+    language: "en"
+    summary_prefix: "none"

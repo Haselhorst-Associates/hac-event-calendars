@@ -1,0 +1,36 @@
+name: Generate ICS Calendars
+
+on:
+  push:
+    paths:
+      - 'data/*.xlsx'
+      - 'calendars.yaml'
+      - 'scripts/excel_to_ics.py'
+  workflow_dispatch:  # Manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate ICS from Excel
+        run: python scripts/excel_to_ics.py --config calendars.yaml --base-dir .
+
+      - name: Commit and push ICS files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/**/*.ics
+          git diff --staged --quiet || git commit -m "Auto-generate ICS from Excel data"
+          git push
