@@ -736,4 +736,17 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: from £599
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:32ceea16-5367-5c22-819e-502d53305ded
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:[DE] TEST EVENT — Bitte ignorieren
+LOCATION:München
+DESCRIPTION:Cost: Free\nRegistration & Info: https://example.com
+URL:https://example.com
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
+ ><a href="https://example.com">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
