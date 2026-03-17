@@ -18,7 +18,7 @@ import json
 import logging
 import re
 import uuid
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import openpyxl
@@ -214,10 +214,12 @@ def read_excel_events(
 
         # Normalize date to string
         date_val = record["date"]
-        if isinstance(date_val, str):
+        if isinstance(date_val, (datetime, date)):
+            # Excel stored it as a date object → convert to DD.MM.YYYY
+            record["date"] = date_val.strftime("%d.%m.%Y")
+        elif isinstance(date_val, str):
             record["date"] = date_val.strip()
         else:
-            # openpyxl might return a datetime for simple dates
             record["date"] = str(date_val)
 
         # Strip whitespace from string fields
