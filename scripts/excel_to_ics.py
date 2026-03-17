@@ -367,9 +367,16 @@ def generate_ics(events: list[dict], cal_config: dict) -> str:
     header = "\r\n".join(header_lines)
     footer = "END:VCALENDAR"
 
+    # Sort events chronologically by start date
+    def _sort_key(event):
+        parsed = parse_date_range(event.get("date", ""))
+        return parsed[0] if parsed else date.max
+
+    events_sorted = sorted(events, key=_sort_key)
+
     vevent_blocks = []
     skipped = 0
-    for event in events:
+    for event in events_sorted:
         block = event_to_vevent(event, cal_config)
         if block:
             vevent_blocks.append(block)
