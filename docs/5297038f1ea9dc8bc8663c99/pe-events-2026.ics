@@ -204,6 +204,19 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:247ae2ec-7251-5e17-8f2f-c71155831593
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:[DE] TEST Power Automate Sync
+LOCATION:Frankfurt
+DESCRIPTION:Cost: Free\nRegistration & Info: https://example.com
+URL:https://example.com
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
+ ><a href="https://example.com">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:82fe31b2-1a9f-5d99-99f4-14536b68d6cb
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
@@ -321,6 +334,19 @@ URL:https://equityforum.de/en/events/german-spring-conference-2026
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free (inst
  . investors)</p><p><a href="https://equityforum.de/en/events/german-spring
  -conference-2026">Registration & Info</a></p></BODY></HTML>
+CATEGORIES:Conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99f4b2f6-4510-55aa-9c7f-5dd8ab0c043f
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:[DE] TEST Power Automate Sync
+LOCATION:Frankfurt
+DESCRIPTION:Cost: Free\nRegistration & Info: https://example.com
+URL:https://example.com
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
+ ><a href="https://example.com">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
