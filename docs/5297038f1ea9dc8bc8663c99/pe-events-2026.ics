@@ -189,19 +189,6 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:32ceea16-5367-5c22-819e-502d53305ded
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:[DE] TEST EVENT — Bitte ignorieren
-LOCATION:München
-DESCRIPTION:Cost: Free\nRegistration & Info: https://example.com
-URL:https://example.com
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
- ><a href="https://example.com">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Test
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:31f78e3f-0930-55a7-a1de-1cc44182d20b
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
@@ -702,20 +689,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: LPs free /
   GPs from ~£2,499</p><p><a href="https://informaconnect.com/superreturneu
  rope/">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7e99d1bf-a2d3-5eb7-a81d-6d9928a3d8ef
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:[UK] TEST 123123
-LOCATION:Düsseldorf
-DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tactus.works
-URL:https://www.tactus.works
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Free</p><p
- ><a href="https://www.tactus.works">Registration & Info</a></p></BODY></HT
- ML>
-CATEGORIES:Test
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
