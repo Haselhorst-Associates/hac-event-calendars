@@ -1,8 +1,13 @@
 """
-excel_to_ics.py — Excel Event Calendar → ICS Converter
+excel_to_ics.py — Event Calendar → ICS Converter
 
-Reads event data from .xlsx files and generates RFC 5545 compliant ICS files.
-Supports EN and DE column headers, multi-day date ranges, deterministic UIDs.
+Reads event data from JSON (Microsoft Lists) or .xlsx files and generates
+RFC 5545 compliant ICS files. Supports EN and DE column headers, multi-day
+date ranges, deterministic UIDs.
+
+Data sources (configured in calendars.yaml):
+    - json_file: JSON array from Microsoft Lists (preferred)
+    - excel_file: Legacy .xlsx files (backward-compatible)
 
 Usage:
     # CLI (for GitHub Actions / terminal)
@@ -233,6 +238,68 @@ def read_excel_events(
     return events
 
 
+# ── JSON reading (Microsoft Lists) ──────────────────────────────────────────
+
+def read_json_events(json_path: str | Path) -> list[dict]:
+    """Read events from a JSON file exported from Microsoft Lists.
+
+    JSON format: array of objects with keys:
+        event, start_date (ISO), end_date (ISO, nullable),
+        organiser, location, country, cost, link, status, category
+
+    Converts start_date/end_date back to the internal "date" format
+    expected by the ICS generation layer.
+    """
+    with open(json_path, "r", encoding="utf-8") as f:
+        items = json.load(f)
+
+    events = []
+    for item in items:
+        if not item.get("event") or not item.get("start_date"):
+            continue
+
+        # Convert ISO dates to internal date string format (DD.MM.YYYY or range)
+        start_str = item["start_date"]  # e.g. "2026-06-09"
+        end_str = item.get("end_date")  # e.g. "2026-06-12" or null
+
+        start_d = date.fromisoformat(start_str)
+
+        if end_str:
+            end_d = date.fromisoformat(end_str)
+            if end_d == start_d:
+                # Single day
+                date_display = start_d.strftime("%d.%m.%Y")
+            elif start_d.month == end_d.month and start_d.year == end_d.year:
+                # Same month: "03.–05.02.2026"
+                date_display = f"{start_d.day:02d}.–{end_d.strftime('%d.%m.%Y')}"
+            else:
+                # Cross month: "31.08.–01.09.2026"
+                date_display = f"{start_d.strftime('%d.%m.')}\u2013{end_d.strftime('%d.%m.%Y')}"
+        else:
+            date_display = start_d.strftime("%d.%m.%Y")
+
+        record = {
+            "date": date_display,
+            "event": item.get("event", ""),
+            "organiser": item.get("organiser", ""),
+            "location": item.get("location", ""),
+            "country": item.get("country", ""),
+            "cost": item.get("cost", ""),
+            "link": item.get("link", ""),
+            "status": item.get("status", ""),
+            "category": item.get("category", ""),
+        }
+
+        # Strip whitespace from string fields
+        for k, v in record.items():
+            if isinstance(v, str):
+                record[k] = v.strip()
+
+        events.append(record)
+
+    return events
+
+
 # ── ICS generation ───────────────────────────────────────────────────────────
 
 def _make_uid(summary: str, dtstart: date) -> str:
@@ -405,21 +472,33 @@ def load_config(config_path: str | Path) -> dict:
 
 
 def process_calendar(cal_config: dict, base_dir: Path) -> dict:
-    """Process a single calendar: read Excel → generate ICS → write file.
+    """Process a single calendar: read data source → generate ICS → write file.
+
+    Supports both JSON (Microsoft Lists) and Excel data sources.
+    JSON is preferred; Excel is the legacy fallback.
 
     Returns:
         Stats dict with event counts.
     """
-    excel_path = base_dir / cal_config["excel_file"]
     output_path = base_dir / cal_config["output_file"]
-    header_row = cal_config.get("header_row", 3)
-    language = cal_config.get("language", "en")
 
-    logger.info("Reading %s (language=%s, header_row=%d)", excel_path.name, language, header_row)
+    # Read events from JSON or Excel
+    if "json_file" in cal_config:
+        json_path = base_dir / cal_config["json_file"]
+        logger.info("Reading %s (JSON/Lists source)", json_path.name)
+        events = read_json_events(json_path)
+        source_name = json_path.name
+    elif "excel_file" in cal_config:
+        excel_path = base_dir / cal_config["excel_file"]
+        header_row = cal_config.get("header_row", 3)
+        language = cal_config.get("language", "en")
+        logger.info("Reading %s (Excel, language=%s, header_row=%d)", excel_path.name, language, header_row)
+        events = read_excel_events(excel_path, header_row, language)
+        source_name = excel_path.name
+    else:
+        raise ValueError("Calendar config must have either 'json_file' or 'excel_file'")
 
-    # Read events
-    events = read_excel_events(excel_path, header_row, language)
-    logger.info("Found %d events in %s", len(events), excel_path.name)
+    logger.info("Found %d events in %s", len(events), source_name)
 
     # Filter by status if configured
     skip_status = cal_config.get("skip_status", [])
@@ -439,7 +518,7 @@ def process_calendar(cal_config: dict, base_dir: Path) -> dict:
     logger.info("Wrote %s", output_path)
 
     return {
-        "excel_file": str(excel_path.name),
+        "source_file": source_name,
         "output_file": str(output_path),
         "total_events": len(events),
         "calendar_name": cal_config.get("calendar_name", ""),
@@ -465,9 +544,10 @@ def process_all_calendars(config_path: str | Path, base_dir: str | Path = ".") -
             stats = process_calendar(cal_config, base)
             results.append(stats)
         except Exception:
-            logger.exception("Failed to process calendar: %s", cal_config.get("excel_file", "?"))
+            source = cal_config.get("json_file", cal_config.get("excel_file", "?"))
+            logger.exception("Failed to process calendar: %s", source)
             results.append({
-                "excel_file": cal_config.get("excel_file", "?"),
+                "source_file": source,
                 "error": True,
             })
 
