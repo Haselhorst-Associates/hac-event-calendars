@@ -39,6 +39,17 @@ Edit events directly in the SharePoint Lists. Changes are automatically synced t
 - **Hosting:** GitHub Pages (`docs/**/*.ics`)
 - **Config:** `calendars.yaml`
 
+## Credentials & Maintenance
+
+| Credential | Type | Expires | Used by |
+|-----------|------|---------|---------|
+| GitHub PAT | Fine-grained (Contents: read/write) | **2026-12-31** | Power Automate flows (HTTP steps) |
+
+**When the PAT expires:**
+1. Generate a new Fine-grained PAT at https://github.com/settings/tokens?type=beta
+2. Scope: Repository `hac-event-calendars`, Permission: Contents read/write
+3. Update the Authorization header in both Power Automate flows (HTTP + HTTP 1 steps)
+
 ## Setup
 
 See `POWER_AUTOMATE_SETUP.md` in the deploy folder of the main project for detailed setup instructions.
