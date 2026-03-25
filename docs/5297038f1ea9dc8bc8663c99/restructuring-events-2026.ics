@@ -11,12 +11,12 @@ DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260124
 SUMMARY:TMA DACH Event (Deutschland-Österreich-Schweiz)
 LOCATION:Zürich\, Schweiz
-DESCRIPTION:Cost: Members\nRegistration & Info: https://www.tma-deutschland
- .org/aktuelle-veranstaltungen.html
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.tma-deutschland.org
+ /aktuelle-veranstaltungen.html
 URL:https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Members</p
- ><p><a href="https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
- ">Registration & Info</a></p></BODY></HTML>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://www.tma-deutschland.org/aktuelle-veranstaltungen.html">Re
+ gistration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -604,7 +604,7 @@ URL:https://www.ifus-institut.de/veranstaltungen/branchenevents
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
  <a href="https://www.ifus-institut.de/veranstaltungen/branchenevents">Regi
  stration & Info</a></p></BODY></HTML>
-CATEGORIES:Verband
+CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -800,7 +800,7 @@ URL:https://www.tma-deutschland.org/terminuebersicht-2025.html
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: Members</p
  ><p><a href="https://www.tma-deutschland.org/terminuebersicht-2025.html">R
  egistration & Info</a></p></BODY></HTML>
-CATEGORIES:Verband
+CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

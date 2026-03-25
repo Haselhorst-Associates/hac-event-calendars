@@ -11,12 +11,12 @@ DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 SUMMARY:[DE] PrivateMarkets_One 2026
 LOCATION:Frankfurt
-DESCRIPTION:Cost: tbc\nRegistration & Info: https://forum.frankfurt-school.
- de/konferenzen/privatemarkets_one/
+DESCRIPTION:Cost: ICS-TEST\nRegistration & Info: https://forum.frankfurt-sc
+ hool.de/konferenzen/privatemarkets_one/
 URL:https://forum.frankfurt-school.de/konferenzen/privatemarkets_one/
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
- <a href="https://forum.frankfurt-school.de/konferenzen/privatemarkets_one/
- ">Registration & Info</a></p></BODY></HTML>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ICS-TEST</
+ p><p><a href="https://forum.frankfurt-school.de/konferenzen/privatemarkets
+ _one/">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -141,7 +141,7 @@ URL:https://www.bvkap.de/events/termine/31-saechsische-investoren-roadshow-
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
  <a href="https://www.bvkap.de/events/termine/31-saechsische-investoren-roa
  dshow-digitale-ausgabe">Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Roadshow
+CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -599,7 +599,7 @@ URL:https://www.bvkap.de/events/termine/33-saxon-investors-roadshow
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
  <a href="https://www.bvkap.de/events/termine/33-saxon-investors-roadshow">
  Registration & Info</a></p></BODY></HTML>
-CATEGORIES:Roadshow
+CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
