@@ -3,10 +3,11 @@ name: Generate ICS Calendars
 on:
   push:
     paths:
+      - 'data/*.json'
       - 'data/*.xlsx'
       - 'calendars.yaml'
       - 'scripts/excel_to_ics.py'
-  workflow_dispatch:  # Manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   generate:
