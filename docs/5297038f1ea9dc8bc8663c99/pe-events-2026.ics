@@ -11,12 +11,12 @@ DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 SUMMARY:[DE] PrivateMarkets_One 2026
 LOCATION:Frankfurt
-DESCRIPTION:Cost: ICS-TEST\nRegistration & Info: https://forum.frankfurt-sc
- hool.de/konferenzen/privatemarkets_one/
+DESCRIPTION:Cost: tbc\nRegistration & Info: https://forum.frankfurt-school.
+ de/konferenzen/privatemarkets_one/
 URL:https://forum.frankfurt-school.de/konferenzen/privatemarkets_one/
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: ICS-TEST</
- p><p><a href="https://forum.frankfurt-school.de/konferenzen/privatemarkets
- _one/">Registration & Info</a></p></BODY></HTML>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
+ <a href="https://forum.frankfurt-school.de/konferenzen/privatemarkets_one/
+ ">Registration & Info</a></p></BODY></HTML>
 CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
