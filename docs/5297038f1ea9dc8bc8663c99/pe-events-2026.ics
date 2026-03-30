@@ -194,12 +194,12 @@ DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:[DE] Female Funding '26
 LOCATION:Online
-DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.bvkap.de/events/ter
- mine/female-funding-26
+DESCRIPTION:Cost: 10$ (Test)\nRegistration & Info: https://www.bvkap.de/eve
+ nts/termine/female-funding-26
 URL:https://www.bvkap.de/events/termine/female-funding-26
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: tbc</p><p>
- <a href="https://www.bvkap.de/events/termine/female-funding-26">Registrati
- on & Info</a></p></BODY></HTML>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><HTML><BODY><p>Cost: 10$ (Test)
+ </p><p><a href="https://www.bvkap.de/events/termine/female-funding-26">Reg
+ istration & Info</a></p></BODY></HTML>
 CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
