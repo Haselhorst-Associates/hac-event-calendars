@@ -9,4 +9,4 @@ calendars:
     output_file: "docs/5297038f1ea9dc8bc8663c99/restructuring-events-2026.ics"
     calendar_name: "Restructuring Events 2026"
     prodid: "-//HAC//Restructuring Events 2026//EN"
-    summary_prefix: "none"
+    summary_prefix: "country"  # [DE], [FR], [UK] prefix in SUMMARY
