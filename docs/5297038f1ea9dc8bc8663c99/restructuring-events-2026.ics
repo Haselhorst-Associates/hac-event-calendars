@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Restructuring Events 2026
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2c888d51-27ba-5eb6-b73a-a0a2882b49e9
+UID:ea075f38-0e70-544a-b466-8600c1d6883f
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260124
-SUMMARY:TMA DACH Event (Deutschland-Österreich-Schweiz)
+SUMMARY:[CH] TMA DACH Event (Deutschland-Österreich-Schweiz)
 LOCATION:Zürich\, Schweiz
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.tma-deutschland.org
  /aktuelle-veranstaltungen.html
@@ -21,10 +21,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:79e59936-ff60-5773-a918-a40718cf26e4
+UID:53a0211d-ca11-5c94-bfde-eb418f28ff17
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-SUMMARY:TMA NextGen – 10-jähriges Jubiläum
+SUMMARY:[DE] TMA NextGen – 10-jähriges Jubiläum
 LOCATION:Frankfurt (Maindock)
 DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tma-deutschland.or
  g/aktuelle-veranstaltungen.html
@@ -36,10 +36,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5a7473e6-1c0d-5cff-998a-7377e752be4f
+UID:2050cd4a-accb-5110-a374-f918e2f6b60e
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
-SUMMARY:TMA UK London (February)
+SUMMARY:[UK] TMA UK London (February)
 LOCATION:London
 DESCRIPTION:Cost: TMA-Members\nRegistration & Info: https://tma-uk.org/even
  ts
@@ -51,10 +51,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea2a858-fa12-50a2-b59c-a920460e144a
+UID:4ba63c01-72df-592b-9603-59014c1e96c9
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
-SUMMARY:R3 Northern Ireland Half Day Forum
+SUMMARY:[UK] R3 Northern Ireland Half Day Forum
 LOCATION:Belfast
 DESCRIPTION:Cost: R3-Members\nRegistration & Info: https://www.r3.org.uk/ev
  ents-training/
@@ -66,10 +66,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:38c27ce4-7f4b-5799-bcaa-36636f0fa655
+UID:767e56d0-5df1-539c-8fcc-a41bd1117d72
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
-SUMMARY:2. Sanierungskonferenz München (Hamburger Kreis)
+SUMMARY:[DE] 2. Sanierungskonferenz München (Hamburger Kreis)
 LOCATION:München (Hotel Bayerischer Hof)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.linkedin.com/in/dis
  tressed-ladies-women-in-restructuring-9a40781a3/
@@ -82,10 +82,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1ec1eef8-a5d1-545b-a5e7-69871ace769d
+UID:747db1c4-0319-5ff3-a5a8-d7af41c28d56
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260307
-SUMMARY:BDU Fachkonferenz Sanierung 2026
+SUMMARY:[DE] BDU Fachkonferenz Sanierung 2026
 LOCATION:Petersberg bei Bonn (Steigenberger Grandhotel)
 DESCRIPTION:Cost: ab 570 €\nRegistration & Info: https://www.bdu.de/event
  s/fachkonferenz-sanierung/
@@ -97,10 +97,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf039d1f-260e-558d-acdb-5a96aa856c80
+UID:a94f272d-3f27-5ad9-aa20-63cebac58a4d
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
-SUMMARY:INSOL Europe – Group Insolvencies Seminar
+SUMMARY:[BE] INSOL Europe – Group Insolvencies Seminar
 LOCATION:Brüssel (Palais des Académies)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insol-europe.org/ev
  ents
@@ -112,11 +112,11 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5327a49e-e083-5e1b-b524-7a6ee52df9ec
+UID:22eec200-8af6-5c86-b24a-1b1a63c33135
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
-SUMMARY:TMA UK Breakfast – UK Restructuring Solutions for International P
- roblems
+SUMMARY:[UK] TMA UK Breakfast – UK Restructuring Solutions for Internatio
+ nal Problems
 LOCATION:London
 DESCRIPTION:Cost: TMA-Members\nRegistration & Info: https://tma-uk.org/even
  ts
@@ -128,10 +128,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:17e19f31-9a71-525b-b6d8-db0a7caba1ae
+UID:dc932319-0989-5c66-9b8b-56d0602c6dfe
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
-SUMMARY:ReTurn Stammtisch Wien
+SUMMARY:[AT] ReTurn Stammtisch Wien
 LOCATION:Wien (Bar Campari)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.restrukturierung.at
  /
@@ -143,10 +143,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:705c95f7-17f6-5ac0-b68a-3635a40ff071
+UID:308d030f-1af5-5f93-9f4e-ada546843f1c
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
-SUMMARY:TMA NextGen Event Düsseldorf
+SUMMARY:[DE] TMA NextGen Event Düsseldorf
 LOCATION:Düsseldorf (PwC Office)
 DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tma-deutschland.or
  g/aktuelle-veranstaltungen.html
@@ -158,10 +158,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:55516430-bd4b-5138-a07a-2341fead1b7a
+UID:2080151f-3aab-545a-8c08-46d9b6a3e6f3
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
-SUMMARY:ReTurn Frühstück Klagenfurt
+SUMMARY:[AT] ReTurn Frühstück Klagenfurt
 LOCATION:Klagenfurt (Hotel Sandwirth)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.restrukturierung.at
  /
@@ -173,10 +173,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:69fc79f4-0bc0-5708-a946-de14180a0084
+UID:2c42c0d5-2026-5116-8294-3d4b62a35dd5
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:TMA Stammtisch München
+SUMMARY:[DE] TMA Stammtisch München
 LOCATION:München (Wirtshaus in der Au)
 DESCRIPTION:Cost: Free\nRegistration & Info: https://www.tma-deutschland.or
  g/aktuelle-veranstaltungen.html
@@ -188,10 +188,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3ee3e62a-c2ae-54e9-82f4-ef41939d53e6
+UID:690ab26e-0849-55ee-bbd3-7aed95f972e7
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260321
-SUMMARY:23. Deutscher Insolvenzrechtstag
+SUMMARY:[DE] 23. Deutscher Insolvenzrechtstag
 LOCATION:Berlin
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -203,10 +203,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:acddd928-3768-5adc-bf41-8f984e0ca719
+UID:d98a03e5-1169-5a83-a968-c682bf81a40e
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
-SUMMARY:INSOL Europe – Environmental Concerns in Insolvency
+SUMMARY:[FR] INSOL Europe – Environmental Concerns in Insolvency
 LOCATION:Paris (Commercial Court) + Online
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insol-europe.org/ev
  ents
@@ -218,11 +218,11 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0c7db016-f85f-51a2-8dc5-ff71c7d392d3
+UID:beb95558-5b09-5837-903e-0cb6405dfde6
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
-SUMMARY:Deutsches Restrukturierungsforum Düsseldorf – „Stimmt die Chem
- ie?"
+SUMMARY:[DE] Deutsches Restrukturierungsforum Düsseldorf – „Stimmt die
+  Chemie?"
 LOCATION:Düsseldorf (Industrie-Club)
 DESCRIPTION:Cost: Free\nRegistration & Info: https://www.deutsches-restrukt
  urierungsforum.de/
@@ -234,10 +234,10 @@ CATEGORIES:Regional Forum
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1094fbac-992e-5ca6-b56a-51f2973de450
+UID:f850ecff-612a-5a3a-946f-264a9644403c
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:Restrukturierungslunch Heidelberg
+SUMMARY:[DE] Restrukturierungslunch Heidelberg
 LOCATION:Heidelberg
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -249,10 +249,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9d284ebe-924d-58f4-b4d3-edbb52dee9f5
+UID:4315e084-4a9e-50df-8a75-122ba60dd6e4
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260421
-SUMMARY:INSOL International Annual Conference 2026
+SUMMARY:[UK] INSOL International Annual Conference 2026
 LOCATION:London
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://events.insol.org/websit
  e/17374/home/
@@ -264,10 +264,11 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:421644ec-48c3-5b84-ae73-3af416367640
+UID:16386f17-153a-57b0-b586-a5d6a7a5a0f1
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:Deutsches Restrukturierungsforum Berlin – „Rolle der Banken"
+SUMMARY:[DE] Deutsches Restrukturierungsforum Berlin – „Rolle der Banke
+ n"
 LOCATION:Berlin (Dorint Kurfürstendamm)
 DESCRIPTION:Cost: Free\nRegistration & Info: https://www.deutsches-restrukt
  urierungsforum.de/
@@ -279,10 +280,10 @@ CATEGORIES:Regional Forum
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3fc1bd70-95bc-515e-9c3b-ccca36ba4bc2
+UID:26ee723e-c13d-5518-8adf-2ee521be6cb9
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:TMA UK London
+SUMMARY:[UK] TMA UK London
 LOCATION:London
 DESCRIPTION:Cost: TMA-Members\nRegistration & Info: https://tma-uk.org/even
  ts
@@ -294,10 +295,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:640e149d-2cd9-5b8b-9ed2-31367c0b974d
+UID:2c4dde60-1ea4-526b-9f14-87811c1409a6
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260425
-SUMMARY:Handelsblatt Jahrestagung Restrukturierung 2026
+SUMMARY:[DE] Handelsblatt Jahrestagung Restrukturierung 2026
 LOCATION:Frankfurt (Hilton City Centre)
 DESCRIPTION:Cost: ab 2.450 €\nRegistration & Info: https://live.handelsbl
  att.com/event/handelsblatt-restrukturierung/
@@ -309,10 +310,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c0b7c42b-6125-55fc-9de0-3aa3a5d682ca
+UID:0e4cbcb5-acad-512a-a9c1-2a12938f9f4c
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:Restrukturierungslunch München
+SUMMARY:[DE] Restrukturierungslunch München
 LOCATION:München
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -324,10 +325,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7edd67d1-e4c5-591a-8e05-30775f58db7c
+UID:80cde73f-9887-5fc0-ae04-8f18580b190a
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:Restrukturierungslunch Nürnberg
+SUMMARY:[DE] Restrukturierungslunch Nürnberg
 LOCATION:Nürnberg
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -339,10 +340,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:145f90ce-68ec-5e5b-9650-41dafba57a5e
+UID:e06b961d-0956-5eef-9375-391e52d6b6e8
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:IPA Annual Conference 2026
+SUMMARY:[UK] IPA Annual Conference 2026
 LOCATION:London (1 Wimpole Street)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://insolvency-practitioner
  s.org.uk/event/ipa-annual-conference-2026/
@@ -355,10 +356,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8336441c-8842-5398-9ef3-f353c8ae2588
+UID:e35190b0-5a1d-504f-b644-86ccb86f212e
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-SUMMARY:Restrukturierungslunch Magdeburg
+SUMMARY:[DE] Restrukturierungslunch Magdeburg
 LOCATION:Magdeburg
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -370,10 +371,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e72706f6-6619-5240-ba2f-d1a8c1f344a4
+UID:97e1a7fd-f396-51eb-a93d-ebe0928d462c
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260509
-SUMMARY:R3 Annual Conference 2026 (40 Years Insolvency Act)
+SUMMARY:[HU] R3 Annual Conference 2026 (40 Years Insolvency Act)
 LOCATION:Budapest (Marriott Hotel)
 DESCRIPTION:Cost: R3-Members\nRegistration & Info: https://www.r3annualconf
  erence.com/
@@ -385,10 +386,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8ea6724b-7f25-5376-ab2a-e479a1c356e8
+UID:2a8dd733-5e45-58e8-b626-dd63e7fb40f6
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-SUMMARY:ILA Annual Conference 2026
+SUMMARY:[UK] ILA Annual Conference 2026
 LOCATION:London (Linklaters)
 DESCRIPTION:Cost: ILA-Members\nRegistration & Info: https://www.ilauk.com/n
  ews-events/upcoming-events
@@ -400,10 +401,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e1d06950-590d-5684-9f18-a6e04aeb8214
+UID:37d92a13-172d-58a8-a562-a90aac510c2a
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-SUMMARY:ILA Annual Conference 2026 (Insolvency Lawyers Association)
+SUMMARY:[UK] ILA Annual Conference 2026 (Insolvency Lawyers Association)
 LOCATION:London (Linklaters)
 DESCRIPTION:Cost: ILA-Members\nRegistration & Info: https://www.ilauk.com/
 URL:https://www.ilauk.com/
@@ -414,10 +415,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:de53bff2-599b-5ef6-b222-121d459f0688
+UID:da75a02e-ccc3-5d6d-8376-848860b690b5
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260523
-SUMMARY:26. Düsseldorfer Insolvenztage
+SUMMARY:[DE] 26. Düsseldorfer Insolvenztage
 LOCATION:Düsseldorf (Industrie-Club)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -429,10 +430,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0e37640b-e7fe-582f-8261-231046147c40
+UID:2723aac6-85b7-58ae-83c8-af3f466491ba
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260523
-SUMMARY:Süddeutsches Forum für Insolvenz und Sanierung
+SUMMARY:[DE] Süddeutsches Forum für Insolvenz und Sanierung
 LOCATION:Kloster Holzen
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -444,10 +445,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:00bddf61-35c6-58b8-ad9b-c783b1d0e411
+UID:a8d35225-78e8-5a80-b42f-2cf42c40b70d
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:Restrukturierungslunch Erfurt
+SUMMARY:[DE] Restrukturierungslunch Erfurt
 LOCATION:Erfurt
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -459,10 +460,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1ab3a7f2-866b-5fb4-bb1b-29b6413496c8
+UID:bea0c8d9-33dc-567b-accc-08b39ff02876
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260605
-SUMMARY:TMA Europe Annual Conference
+SUMMARY:[DE] TMA Europe Annual Conference
 LOCATION:Italien (Ort tbd)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.tma-europe.org/even
  ts/
@@ -474,10 +475,11 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cbed9f82-e6e0-5a22-a16f-0de81edba70a
+UID:ccc9b733-05e8-5594-a35f-96fe73c2f1cf
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:R3 & INSOL Europe International Restructuring Conference (20th)
+SUMMARY:[UK] R3 & INSOL Europe International Restructuring Conference (20th
+ )
 LOCATION:London (No.11 Cavendish Square)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.r3.org.uk/
 URL:https://www.r3.org.uk/
@@ -487,10 +489,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1abed200-70df-5f76-8233-b473951ef23f
+UID:394f2197-48fd-5756-9678-a5dc9a4d1783
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260607
-SUMMARY:20. Kieler Insolvenzsymposium
+SUMMARY:[DE] 20. Kieler Insolvenzsymposium
 LOCATION:Kiel
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -502,10 +504,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2edd3f98-bf95-584e-93e9-f1f4d2d5bf96
+UID:1bad5ce2-d238-5e1b-9e9f-10228c78d90d
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-SUMMARY:Restrukturierungslunch Stuttgart
+SUMMARY:[DE] Restrukturierungslunch Stuttgart
 LOCATION:Stuttgart
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -517,11 +519,11 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4d389117-332a-5b99-b795-85d6aad1aa87
+UID:b434e6c9-0bd0-5ae6-b91a-c81853bdb409
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-SUMMARY:Deutsches Restrukturierungsforum Stuttgart – „Handlungsoptionen
- "
+SUMMARY:[DE] Deutsches Restrukturierungsforum Stuttgart – „Handlungsopt
+ ionen"
 LOCATION:Stuttgart (Haus der Architekten)
 DESCRIPTION:Cost: Free\nRegistration & Info: https://www.deutsches-restrukt
  urierungsforum.de/
@@ -533,10 +535,10 @@ CATEGORIES:Regional Forum
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8f2bbd37-f26c-5d0a-87e9-13c712853b96
+UID:a75c6438-a20d-5417-8bcd-177f2ed56b72
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260620
-SUMMARY:9. Bodensee-Forum – Sanierungskongress
+SUMMARY:[DE] 9. Bodensee-Forum – Sanierungskongress
 LOCATION:Konstanz (Konzil)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.kongress-bodenseefo
  rum.de/
@@ -548,10 +550,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a97929b0-531c-5f2d-9122-a14aec5f75f5
+UID:2e18d2b5-54e1-5614-8364-f1de58b8578b
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-SUMMARY:10. Jahrestagung Hamburger Kreis
+SUMMARY:[DE] 10. Jahrestagung Hamburger Kreis
 LOCATION:tbd
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.hamburger-kreis.org
  /
@@ -563,10 +565,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d6e6d332-2f4c-5de4-9da5-1afaac89e66d
+UID:7ead19bf-71db-57a7-8b95-0ce99a3875e9
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:INSOL Europe EECC Conference – "When East meets West"
+SUMMARY:[CY] INSOL Europe EECC Conference – "When East meets West"
 LOCATION:Limassol\, Zypern
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insol-europe.org/ev
  ents
@@ -578,10 +580,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0edbc3b6-c59f-592d-92ed-7ef9931eda13
+UID:696e4c0e-1c35-5fd8-b727-fe544d884894
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260627
-SUMMARY:3. Transformationskonferenz Heidelberg
+SUMMARY:[DE] 3. Transformationskonferenz Heidelberg
 LOCATION:Heidelberg (SRH Hochschule)
 DESCRIPTION:Cost: ab 389 €\nRegistration & Info: https://www.ifus-institu
  t.de/veranstaltungen/transformationskonferenz
@@ -593,10 +595,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6fd87ae5-48e4-52d5-927f-60ab1133a747
+UID:5d82ad7a-a1a4-5dcd-b555-66e30ddf1e35
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
-SUMMARY:IfUS Fachsitzung des Verbandes
+SUMMARY:[DE] IfUS Fachsitzung des Verbandes
 LOCATION:Heidelberg (SRH Hochschule)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -608,10 +610,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e57bf634-1c6c-5558-843d-319e7df0caf4
+UID:343ac1cc-9a39-5893-90e9-44a94e30d602
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:R3 Contentious Insolvency & Creditors Forum
+SUMMARY:[UK] R3 Contentious Insolvency & Creditors Forum
 LOCATION:London (BMA House)
 DESCRIPTION:Cost: R3-Members\nRegistration & Info: https://www.r3.org.uk/ev
  ents-training/
@@ -623,10 +625,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:eb798715-9291-5769-98e5-dc75cf57590e
+UID:f46d6d42-841e-51de-8212-1aafb4061e1f
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:Restrukturierungslunch Hannover
+SUMMARY:[DE] Restrukturierungslunch Hannover
 LOCATION:Hannover
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/branchenevents
@@ -638,10 +640,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0b790749-3efd-5649-b3ca-043ecbbf1141
+UID:8fdae88e-3554-57d6-b115-1b455063dad8
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260902
-SUMMARY:XIV. Turnaroundkongress 2026
+SUMMARY:[DE] XIV. Turnaroundkongress 2026
 LOCATION:Weimar (Alte Remise)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.turnaroundkongress.
  com/
@@ -653,10 +655,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:407d2614-d0e9-5f00-a0a7-69a237f3b94d
+UID:ca0f112a-5da3-5d63-8ab5-8b7bae87d1b0
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260912
-SUMMARY:18. NIVD-Jahrestagung
+SUMMARY:[DE] 18. NIVD-Jahrestagung
 LOCATION:Berlin (Hotel Adlon)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -668,10 +670,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3725866f-9e8c-57ce-b029-ee88a29a4524
+UID:cec15ce3-9a60-5f60-969d-77a8827bbf85
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260919
-SUMMARY:16. Sanierungskonferenz Heidelberg
+SUMMARY:[DE] 16. Sanierungskonferenz Heidelberg
 LOCATION:Heidelberg
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.ifus-institut.de/ve
  ranstaltungen/sanierungskonferenz
@@ -683,10 +685,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4d8ea2d6-5157-5fb6-9b7b-2213b69e1c00
+UID:20ea18b2-159f-5341-a49f-62b353a5f4c3
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261019
-SUMMARY:INSOL Europe Annual Congress 2026
+SUMMARY:[PT] INSOL Europe Annual Congress 2026
 LOCATION:Vilamoura\, Portugal
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insol-europe.org/ev
  ents
@@ -698,10 +700,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:eac59b1f-50bd-5a23-8580-2744fa35ff66
+UID:8b941302-d4dd-5a8d-a7c2-4cd631207243
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:15. Internationales Symposium Restrukturierung Kufstein
+SUMMARY:[AT] 15. Internationales Symposium Restrukturierung Kufstein
 LOCATION:Kufstein\, Österreich (FH Kufstein)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.fh-kufstein.ac.at/s
  ervice/eventserien/symposium-restrukturierung/2026
@@ -714,10 +716,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5319a9a8-5ef9-52be-9464-24b7dddaff05
+UID:4eb97f7a-26ca-555c-b230-61cbc2adc1fd
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261107
-SUMMARY:Deutscher Insolvenzverwalterkongress (VID)
+SUMMARY:[DE] Deutscher Insolvenzverwalterkongress (VID)
 LOCATION:Berlin
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -729,10 +731,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2a8ff9c7-6272-5161-8f6e-dffcd7366643
+UID:4eb9c87e-4db2-57f9-88fe-d097a745f980
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:10 Jahre TMA NOW Germany – Jubiläumsveranstaltung
+SUMMARY:[DE] 10 Jahre TMA NOW Germany – Jubiläumsveranstaltung
 LOCATION:Königstein im Taunus
 DESCRIPTION:Cost: Members\nRegistration & Info: https://www.tma-deutschland
  .org/terminuebersicht-2025.html
@@ -744,10 +746,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:74947e86-8ce7-588f-b277-f4cdb036f23e
+UID:d382a739-44f9-56dc-aa65-1e1a88f52a89
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:13. Essener Insolvenzforum
+SUMMARY:[DE] 13. Essener Insolvenzforum
 LOCATION:Essen
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -759,10 +761,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d751c885-6745-5ed6-b5c2-7453c7e43279
+UID:4c0168f7-f677-5997-b2e5-169ffab47e49
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:20. TMA Jahrestagung – Jubiläumsveranstaltung
+SUMMARY:[DE] 20. TMA Jahrestagung – Jubiläumsveranstaltung
 LOCATION:Königstein im Taunus
 DESCRIPTION:Cost: Members\nRegistration & Info: https://www.tma-deutschland
  .org/terminuebersicht-2025.html
@@ -774,10 +776,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aaf0ed49-870e-51cf-a8bd-db20087e7f24
+UID:40153755-9aea-59a4-9259-55834543c8c1
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-SUMMARY:Sanierungsberater Jahrestagung 2026
+SUMMARY:[DE] Sanierungsberater Jahrestagung 2026
 LOCATION:Berlin (Steigenberger)
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
@@ -789,10 +791,10 @@ CATEGORIES:Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3d3aaa5a-3501-5b54-8f65-bb1ac511084f
+UID:2707c761-de63-532c-9a5f-cb909c559c54
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:TMA Mitgliederversammlung 2026
+SUMMARY:[DE] TMA Mitgliederversammlung 2026
 LOCATION:Königstein im Taunus
 DESCRIPTION:Cost: Members\nRegistration & Info: https://www.tma-deutschland
  .org/terminuebersicht-2025.html
@@ -804,10 +806,10 @@ CATEGORIES:Networking
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8dbb23ec-b117-554b-9449-e5fecbbc1b98
+UID:fecab7e1-7988-51e5-9d5f-2ba62ebb6f4c
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-SUMMARY:5. Restrukturierungs- und Insolvenzgerichtstag
+SUMMARY:[DE] 5. Restrukturierungs- und Insolvenzgerichtstag
 LOCATION:Mannheim
 DESCRIPTION:Cost: tbc\nRegistration & Info: https://www.insolvenz-portal.de
  /
